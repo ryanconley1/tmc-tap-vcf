@@ -22,9 +22,9 @@ Here is a list of the things that this project does
 
 ## Pre-reqs
 
-* AVI configured with a DNS VS, [docs](https://avinetworks.com/docs/latest/avi-dns-architecture/#authoritative-name-server-for-a-subdomain-zone)
-* TKGs deployed with AVI + NSXT
-* Harbor install or some other registry
+* Configure AVI with a DNS VS, [docs](https://avinetworks.com/docs/latest/avi-dns-architecture/#authoritative-name-server-for-a-subdomain-zone)
+* Deploy TKG w/ Supervisor with AVI + NSXT
+* Install Harbor or another OCI-compliant registry, [docs](https://goharbor.io/docs/2.10.0/install-config/)
 
 ## Tools
 
