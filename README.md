@@ -1,8 +1,8 @@
-# TAP on VCF with TMC Guide
+# Installation Guide for Tanzu Application Platform (TAP) Self-Managed with Tanzu Mission Control (TMC) on VMware Cloud Foundation (VCF)
 
-This guide's purpose is to quickly stand up TAP using TMC in a VCF environment. This will include dependent resources like DNS and cert management. 
+This guide's purpose is to quickly stand up TAP using TMC in a VCF environment. This includes all dependent resources, including DNS and certificate management. 
 
-## What it does
+## What this Guide does
 
 Here is a list of the things that this project does
 
